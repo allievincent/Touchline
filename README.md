@@ -2,8 +2,8 @@
 
 A full-stack app for soccer training. Coaches post sessions (goalkeeper training, finishing clinics, pickup games...) and players book a spot. Everyone also gets a personal training log for lifts, practices, conditioning and games, and can share entries with a coach for feedback.
 
-**Live site:** https://YOUR-APP.vercel.app  
-**API docs:** https://YOUR-API.onrender.com/docs
+**Live site:** (https://touchline-4wa1arp7b-personal-5c5b.vercel.app)
+**API docs:** (https://touchline-api.onrender.com/docs)
 
 | Part | Tech | Hosted on |
 |---|---|---|
